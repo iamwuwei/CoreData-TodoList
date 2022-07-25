@@ -1,4 +1,4 @@
 # CoreData-TodoList
-build a simple todo list by swiftUI and core data
+A　simple todo list　built with swiftUI and core data
 
 * create, read, updata, delete 
